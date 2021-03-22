@@ -1,0 +1,13 @@
+.box1{
+    float:left;
+    width: 25%;
+}
+.box2{
+    float:left;
+    width: 75%;
+    
+}
+.clear{
+    clear:both;
+}
+
